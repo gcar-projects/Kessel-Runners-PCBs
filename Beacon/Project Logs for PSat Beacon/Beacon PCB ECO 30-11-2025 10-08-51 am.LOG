@@ -1,0 +1,68 @@
+Removed Pin From Net: NetName=5V Pin=LS1-P
+Removed Member From Class: ClassName=Beacon Member=LS1
+Added Component: Designator=J1(MOLEX_0530480210)
+Add component (AddParameter): Name = "APSS Standard Part"; Value = "APSS Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF Part No."; Value = "0530480210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Through-hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part No."; Value = "WM1742-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2(MOLEX_0530480210)
+Add component (AddParameter): Name = "APSS Standard Part"; Value = "APSS Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF Part No."; Value = "0530480210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Through-hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part No."; Value = "WM1742-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J3(MOLEX_0530480210)
+Add component (AddParameter): Name = "APSS Standard Part"; Value = "APSS Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF Part No."; Value = "0530480210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Through-hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part No."; Value = "WM1742-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J4(MOLEX_0530480210)
+Add component (AddParameter): Name = "APSS Standard Part"; Value = "APSS Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF Part No."; Value = "0530480210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Through-hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part No."; Value = "WM1742-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=J1-1
+Added Pin To Net: NetName=5V Pin=J2-1
+Added Pin To Net: NetName=5V Pin=J3-1
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=J2-2
+Added Pin To Net: NetName=NetJ1_2 Pin=J3-2
+Added Pin To Net: NetName=NetJ1_2 Pin=J4-1
+Added Net: Name=NetJ1_2
+Added Pin To Net: NetName=NetJ4_2 Pin=J4-2
+Added Pin To Net: NetName=NetJ4_2 Pin=Q1-3
+Added Net: Name=NetJ4_2
+Added Member To Class: ClassName=Beacon Member=Component J1 0530480210
+Added Member To Class: ClassName=Beacon Member=Component J2 0530480210
+Added Member To Class: ClassName=Beacon Member=Component J3 0530480210
+Added Member To Class: ClassName=Beacon Member=Component J4 0530480210
+Added Room: Name=Beacon
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_4
+Added Rule: Name=Schematic Supply Nets_5

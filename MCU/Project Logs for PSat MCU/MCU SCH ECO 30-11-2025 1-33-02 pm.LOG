@@ -1,0 +1,177 @@
+Removed Parameter APSS Standard Part:APSS Standard from Part U1
+Removed Parameter MF Part No.:MSP430FR2355TPT from Part U1
+Removed Parameter Package:LQFP-48 from Part U1
+Removed Parameter Rated Voltage:1.8V ~ 3.6V from Part U1
+Removed Parameter Supplier 1:Digikey from Part U1
+Removed Parameter Supplier 1 Part No.:296-50260-ND from Part U1
+Removed Parameter Supplier 2: from Part U1
+Removed Parameter Supplier 2 Part No.: from Part U1
+Removed Parameter Temp Range:-40°C ~ 105°C (TA) from Part U1
+Change Component Parameter Comment in C2 Old= New==Value
+Change Value of Parameter Package in Part C2 Old=0402 New=0805
+Change Value of Parameter Capacitance at Rated Voltage in Part C3 Old=40% New=
+Change Component Parameter Comment in C3 Old= New==Value
+Change Component Parameter Description in C3 Old=Generic Capacitor New=Passive - Capacitor, Generic
+Change Value of Parameter MF Part No. in Part C3 Old=C0805C104K5RAC7800 New=
+Change Value of Parameter Package in Part C3 Old=0805 New=
+Change Value of Parameter Rated Voltage in Part C3 Old=50V New=
+Change Value of Parameter Supplier 1 in Part C3 Old=Digikey New=
+Change Value of Parameter Supplier 1 Part No. in Part C3 Old=399-C0805C104K5RAC7800CT-ND New=
+Change Value of Parameter Temperature Coefficient in Part C3 Old=X7R New=
+Change Value of Parameter Temp Range in Part C3 Old=-55°C ~ 125°C New=
+Change Value of Parameter Tolerance in Part C3 Old=±10% New=?%
+Change Value of Parameter Value in Part C3 Old=100nF New=
+Change Value of Parameter Capacitance at Rated Voltage in Part C5 Old=100% New=
+Change Component Parameter Comment in C5 Old= New==Value
+Change Component Parameter Description in C5 Old=Generic Capacitor New=Passive - Capacitor, Generic
+Change Value of Parameter MF Part No. in Part C5 Old=399-C0805C102J5GAC7800CT-ND New=
+Change Value of Parameter Package in Part C5 Old=0805 New=
+Change Value of Parameter Rated Voltage in Part C5 Old=50V New=
+Change Value of Parameter Supplier 1 in Part C5 Old=Digikey New=
+Change Value of Parameter Supplier 1 Part No. in Part C5 Old=399-C0805C102J5GAC7800CT-ND New=
+Change Value of Parameter Temperature Coefficient in Part C5 Old=X7R New=
+Change Value of Parameter Temp Range in Part C5 Old=-55°C ~ 125°C New=
+Change Value of Parameter Tolerance in Part C5 Old=±5% New=?%
+Change Value of Parameter Value in Part C5 Old=1nF New=
+Change Value of Parameter Capacitance at Rated Voltage in Part C? Old=40% New=
+Change Component Parameter Comment in C? Old= New==Value
+Change Component Parameter Comment in C? Old= New==Value
+Change Component Parameter Comment in C? Old= New==Value
+Change Component Parameter Comment in C? Old= New==Value
+Change Component Parameter Description in C? Old=Generic Capacitor New=Passive - Capacitor, Generic
+Change Value of Parameter MF Part No. in Part C? Old=C0805C104K5RAC7800 New=
+Change Value of Parameter Package in Part C? Old=0805 New=
+Change Value of Parameter Rated Voltage in Part C? Old=50V New=
+Change Value of Parameter Supplier 1 in Part C? Old=Digikey New=
+Change Value of Parameter Supplier 1 Part No. in Part C? Old=399-C0805C104K5RAC7800CT-ND New=
+Change Value of Parameter Temperature Coefficient in Part C? Old=X7R New=
+Change Value of Parameter Temp Range in Part C? Old=-55°C ~ 125°C New=
+Change Value of Parameter Tolerance in Part C? Old=±10% New=?%
+Change Value of Parameter Value in Part C? Old=0.1uF New=
+Change Value of Parameter Colour in Part D1 Old=Green New=
+Change Value of Parameter MF Part No. in Part D1 Old=LTST-C190KGKT New=
+Change Value of Parameter Colour in Part D2 Old=Yellow New=
+Change Value of Parameter MF Part No. in Part D2 Old=LTST-C190KSKT New=
+Change Value of Parameter Colour in Part D3 Old=Red New=
+Change Value of Parameter MF Part No. in Part D3 Old=LTST-C190KAKT New=
+Change Component Parameter Component Kind in H1 Old=Standard (No BOM) New=Standard
+Change Component Parameter Component Kind in H2 Old=Standard (No BOM) New=Standard
+Change Component Parameter Component Kind in H3 Old=Standard (No BOM) New=Standard
+Change Component Parameter Component Kind in H4 Old=Standard (No BOM) New=Standard
+Change Component Parameter Component Kind in H6 Old=Standard (No BOM) New=Standard
+Change Component Parameter Comment in R1 Old= New==Value
+Change Value of Parameter MF Part No. in Part R1 Old=RMCF0805JT47K0 New=
+Change Value of Parameter Value in Part R1 Old=47k New=
+Change Component Parameter Comment in R2 Old= New==Value
+Change Value of Parameter MF Part No. in Part R2 Old=RMCF0805JT1K00 New=
+Change Value of Parameter Value in Part R2 Old=1k New=
+Change Component Parameter Comment in R3 Old= New==Value
+Change Value of Parameter MF Part No. in Part R3 Old=RMCF0805JT1K00 New=
+Change Value of Parameter Value in Part R3 Old=1k New=
+Change Component Parameter Comment in R4 Old= New==Value
+Change Value of Parameter MF Part No. in Part R4 Old=RMCF0805JT1K00 New=
+Change Value of Parameter Value in Part R4 Old=1k New=
+Change Component Parameter Comment in R5 Old= New==Value
+Change Value of Parameter MF Part No. in Part R5 Old=RMCF0805JT147K0 New=
+Change Value of Parameter Value in Part R5 Old=47k New=
+Change Component Parameter Comment in R6 Old= New==Value
+Change Value of Parameter MF Part No. in Part R6 Old=RMCF0805JT47K0 New=
+Change Value of Parameter Value in Part R6 Old=47k New=
+Change Component Parameter Comment in R9 Old= New==Value
+Change Value of Parameter MF Part No. in Part R9 Old=RMCF0805JT4K70 New=
+Change Value of Parameter Value in Part R9 Old=4.7k New=
+Change Component Parameter Comment in R10 Old= New==Value
+Change Value of Parameter MF Part No. in Part R10 Old=RMCF0805JT4K70 New=
+Change Value of Parameter Value in Part R10 Old=4.7k New=
+Change Component Parameter Comment in R? Old= New==Value
+Change Component Parameter Comment in R? Old= New==Value
+Change Component Parameter Comment in R? Old= New==Value
+Change Component Parameter Comment in R? Old= New==Value
+Change Component Parameter Comment in R? Old= New==Value
+Change Value of Parameter MF Part No. in Part R? Old=RMCF0805JT1K00 New=
+Change Value of Parameter MF Part No. in Part R? Old=RMCF0805JT1K00 New=
+Change Value of Parameter MF Part No. in Part R? Old=RMCF0805JT1K00 New=
+Change Value of Parameter MF Part No. in Part R? Old=RMCF0805JT1K00 New=
+Change Value of Parameter MF Part No. in Part R? Old=RMCF0805JT1K00 New=
+Change Value of Parameter Value in Part R? Old=4.7k New=
+Change Value of Parameter Value in Part R? Old=4.7k New=
+Change Value of Parameter Value in Part R? Old=4.7k New=
+Change Value of Parameter Value in Part R? Old=4.7k New=
+Change Value of Parameter Value in Part R? Old=4.7k New=
+Change Component Parameter Comment in U1 Old= New=MSP430FR2355IPT
+Change Component Parameter Description in U1 Old= New=Imported
+Change Value of Parameter Value in Part U1 Old= New=Value
+Added Parameter Availability=Unavailable to Part H1
+Added Parameter Availability=Unavailable to Part H2
+Added Parameter Check_prices=https://www.snapeda.com/parts/SSQ-104-02-S-S/Samtec/view-part/?ref=eda to Part H3
+Added Parameter Check_prices=https://www.snapeda.com/parts/SSQ-104-02-S-S/Samtec/view-part/?ref=eda to Part H4
+Added Parameter Check_prices=https://www.snapeda.com/parts/SSQ-104-02-S-S/Samtec/view-part/?ref=eda to Part H6
+Added Parameter Manufacturer=Texas Instruments to Part U1
+Added Parameter MF={'manufacturer': u'Samtec Inc.'} to Part H1
+Added Parameter MF={'manufacturer': u'Samtec Inc.'} to Part H2
+Added Parameter Package=None to Part H1
+Added Parameter Package=None to Part H2
+Added Parameter PartNumber=MSP430FR2355IPT to Part U1
+Added Parameter Price=None to Part H1
+Added Parameter Price=None to Part H2
+Added Parameter RefDes=RefDes to Part U1
+Added Parameter SnapEDA_Link=https://www.snapeda.com/parts/SSQ-104-02-S-S/Samtec/view-part/?ref=snap to Part H3
+Added Parameter SnapEDA_Link=https://www.snapeda.com/parts/SSQ-104-02-S-S/Samtec/view-part/?ref=snap to Part H4
+Added Parameter SnapEDA_Link=https://www.snapeda.com/parts/SSQ-104-02-S-S/Samtec/view-part/?ref=snap to Part H6
+Added Parameter TYPE=TYPE to Part U1
+Added Parameter Value= to Part H1
+Added Parameter Value= to Part H2
+Added Parameter Value= to Part H3
+Added Parameter Value= to Part H4
+Added Parameter Value= to Part H6
+Replace Symbol from B1 Solder Jumper Normally Closed 0201 in C:\Users\ecowa\Documents\UoA\Organisations-Extracurriculars\APSS\Psat\PCB\MCU\MCU.SchDoc with Solder Jumper Normally Closed 0201 from APSS Generic Components.SchLib
+Replace Symbol from B2 Solder Jumper Normally Closed 0201 in C:\Users\ecowa\Documents\UoA\Organisations-Extracurriculars\APSS\Psat\PCB\MCU\MCU.SchDoc with Solder Jumper Normally Closed 0201 from APSS Generic Components.SchLib
+Replace Symbol from B3 Solder Jumper Normally Open 0201 in C:\Users\ecowa\Documents\UoA\Organisations-Extracurriculars\APSS\Psat\PCB\MCU\MCU.SchDoc with Solder Jumper Normally Open 0201 from APSS Generic Components.SchLib
+Replace Symbol from B4 Solder Jumper Normally Open 0201 in C:\Users\ecowa\Documents\UoA\Organisations-Extracurriculars\APSS\Psat\PCB\MCU\MCU.SchDoc with Solder Jumper Normally Open 0201 from APSS Generic Components.SchLib
+Replace Symbol from B5 Solder Jumper Normally Closed 0201 in C:\Users\ecowa\Documents\UoA\Organisations-Extracurriculars\APSS\Psat\PCB\MCU\MCU.SchDoc with Solder Jumper Normally Closed 0201 from APSS Generic Components.SchLib
+Replace Symbol from B6 Solder Jumper Normally Closed 0201 in C:\Users\ecowa\Documents\UoA\Organisations-Extracurriculars\APSS\Psat\PCB\MCU\MCU.SchDoc with Solder Jumper Normally Closed 0201 from APSS Generic Components.SchLib
+Replace Symbol from B7 Solder Jumper Normally Open 0201 in C:\Users\ecowa\Documents\UoA\Organisations-Extracurriculars\APSS\Psat\PCB\MCU\MCU.SchDoc with Solder Jumper Normally Open 0201 from APSS Generic Components.SchLib
+Replace Symbol from B8 Solder Jumper Normally Open 0201 in C:\Users\ecowa\Documents\UoA\Organisations-Extracurriculars\APSS\Psat\PCB\MCU\MCU.SchDoc with Solder Jumper Normally Open 0201 from APSS Generic Components.SchLib
+Replace Symbol from B9 Solder Jumper Normally Closed 0201 in C:\Users\ecowa\Documents\UoA\Organisations-Extracurriculars\APSS\Psat\PCB\MCU\MCU.SchDoc with Solder Jumper Normally Closed 0201 from APSS Generic Components.SchLib
+Replace Symbol from B10 Solder Jumper Normally Closed 0201 in C:\Users\ecowa\Documents\UoA\Organisations-Extracurriculars\APSS\Psat\PCB\MCU\MCU.SchDoc with Solder Jumper Normally Closed 0201 from APSS Generic Components.SchLib
+Replace Symbol from B17 Solder Jumper Normally Open 0201 in C:\Users\ecowa\Documents\UoA\Organisations-Extracurriculars\APSS\Psat\PCB\MCU\MCU.SchDoc with Solder Jumper Normally Open 0201 from APSS Generic Components.SchLib
+Replace Symbol from B18 Solder Jumper Normally Open 0201 in C:\Users\ecowa\Documents\UoA\Organisations-Extracurriculars\APSS\Psat\PCB\MCU\MCU.SchDoc with Solder Jumper Normally Open 0201 from APSS Generic Components.SchLib
+Replace Symbol from B19 Solder Jumper Normally Open 0201 in C:\Users\ecowa\Documents\UoA\Organisations-Extracurriculars\APSS\Psat\PCB\MCU\MCU.SchDoc with Solder Jumper Normally Open 0201 from APSS Generic Components.SchLib
+Replace Symbol from B20 Solder Jumper Normally Open 0201 in C:\Users\ecowa\Documents\UoA\Organisations-Extracurriculars\APSS\Psat\PCB\MCU\MCU.SchDoc with Solder Jumper Normally Open 0201 from APSS Generic Components.SchLib
+Replace Symbol from C2 C0805C226M9PACTU in C:\Users\ecowa\Documents\UoA\Organisations-Extracurriculars\APSS\Psat\PCB\MCU\MCU.SchDoc with C0805C226M9PACTU from APSS Prototype Parts.SchLib
+Replace Symbol from C3 Generic Capacitor in C:\Users\ecowa\Documents\UoA\Organisations-Extracurriculars\APSS\Psat\PCB\MCU\MCU.SchDoc with Generic Capacitor from APSS Generic Components.SchLib
+Replace Symbol from C5 Generic Capacitor in C:\Users\ecowa\Documents\UoA\Organisations-Extracurriculars\APSS\Psat\PCB\MCU\MCU.SchDoc with Generic Capacitor from APSS Generic Components.SchLib
+Replace Symbol from C? GRM21BR61C226ME44L in C:\Users\ecowa\Documents\UoA\Organisations-Extracurriculars\APSS\Psat\PCB\MCU\MCU.SchDoc with GRM21BR61C226ME44L from APSS Prototype Parts.SchLib
+Replace Symbol from C? GRM21BR61C226ME44L in C:\Users\ecowa\Documents\UoA\Organisations-Extracurriculars\APSS\Psat\PCB\MCU\MCU.SchDoc with GRM21BR61C226ME44L from APSS Prototype Parts.SchLib
+Replace Symbol from C? Generic Capacitor in C:\Users\ecowa\Documents\UoA\Organisations-Extracurriculars\APSS\Psat\PCB\MCU\MCU.SchDoc with Generic Capacitor from APSS Generic Components.SchLib
+Replace Symbol from C? GRM21BR61C226ME44L in C:\Users\ecowa\Documents\UoA\Organisations-Extracurriculars\APSS\Psat\PCB\MCU\MCU.SchDoc with GRM21BR61C226ME44L from APSS Prototype Parts.SchLib
+Replace Symbol from D1 LTST-C190 Series in C:\Users\ecowa\Documents\UoA\Organisations-Extracurriculars\APSS\Psat\PCB\MCU\MCU.SchDoc with LTST-C190 Series from APSS Prototype Parts.SchLib
+Replace Symbol from D2 LTST-C190 Series in C:\Users\ecowa\Documents\UoA\Organisations-Extracurriculars\APSS\Psat\PCB\MCU\MCU.SchDoc with LTST-C190 Series from APSS Prototype Parts.SchLib
+Replace Symbol from D3 LTST-C190 Series in C:\Users\ecowa\Documents\UoA\Organisations-Extracurriculars\APSS\Psat\PCB\MCU\MCU.SchDoc with LTST-C190 Series from APSS Prototype Parts.SchLib
+Replace Symbol from D4 B38G3RGB-10D0003H2U1930 in C:\Users\ecowa\Documents\UoA\Organisations-Extracurriculars\APSS\Psat\PCB\MCU\MCU.SchDoc with B38G3RGB-10D0003H2U1930 from APSS Prototype Parts.SchLib
+Replace Symbol from H1 SSQ-105-03-S-S in C:\Users\ecowa\Documents\UoA\Organisations-Extracurriculars\APSS\Psat\PCB\MCU\MCU.SchDoc with SSQ-105-03-S-S from SSQ-105-03-S-S.SchLib
+Replace Symbol from H2 SSQ-105-03-S-S in C:\Users\ecowa\Documents\UoA\Organisations-Extracurriculars\APSS\Psat\PCB\MCU\MCU.SchDoc with SSQ-105-03-S-S from SSQ-105-03-S-S.SchLib
+Replace Symbol from H3 SSQ-104-02-S-S in C:\Users\ecowa\Documents\UoA\Organisations-Extracurriculars\APSS\Psat\PCB\MCU\MCU.SchDoc with SSQ-104-02-S-S from SSQ-104-02-S-S.SchLib
+Replace Symbol from H4 SSQ-104-02-S-S in C:\Users\ecowa\Documents\UoA\Organisations-Extracurriculars\APSS\Psat\PCB\MCU\MCU.SchDoc with SSQ-104-02-S-S from SSQ-104-02-S-S.SchLib
+Replace Symbol from H6 SSQ-104-02-S-S in C:\Users\ecowa\Documents\UoA\Organisations-Extracurriculars\APSS\Psat\PCB\MCU\MCU.SchDoc with SSQ-104-02-S-S from SSQ-104-02-S-S.SchLib
+Replace Symbol from J1 0532610871 in C:\Users\ecowa\Documents\UoA\Organisations-Extracurriculars\APSS\Psat\PCB\MCU\MCU.SchDoc with 0532610871 from APSS Prototype Parts.SchLib
+Replace Symbol from J? 0530480310 in C:\Users\ecowa\Documents\UoA\Organisations-Extracurriculars\APSS\Psat\PCB\MCU\MCU.SchDoc with 0530480310 from APSS Flight Parts.SchLib
+Replace Symbol from J? 0530480310 in C:\Users\ecowa\Documents\UoA\Organisations-Extracurriculars\APSS\Psat\PCB\MCU\MCU.SchDoc with 0530480310 from APSS Flight Parts.SchLib
+Replace Symbol from J? 0530480410 in C:\Users\ecowa\Documents\UoA\Organisations-Extracurriculars\APSS\Psat\PCB\MCU\MCU.SchDoc with 0530480410 from APSS Flight Parts.SchLib
+Replace Symbol from J? MSD-4-A in C:\Users\ecowa\Documents\UoA\Organisations-Extracurriculars\APSS\Psat\PCB\MCU\MCU.SchDoc with MSD-4-A from MSD-4-A.IntLib
+Replace Symbol from PP1 Headerless Pogo Holes 8-pin in C:\Users\ecowa\Documents\UoA\Organisations-Extracurriculars\APSS\Psat\PCB\MCU\MCU.SchDoc with Headerless Pogo Holes 8-pin from APSS Generic Components.SchLib
+Replace Symbol from PP2 Headerless Pogo Holes 4-pin in C:\Users\ecowa\Documents\UoA\Organisations-Extracurriculars\APSS\Psat\PCB\MCU\MCU.SchDoc with Headerless Pogo Holes 4-pin from APSS Generic Components.SchLib
+Replace Symbol from R1 RMCF0805JT Series in C:\Users\ecowa\Documents\UoA\Organisations-Extracurriculars\APSS\Psat\PCB\MCU\MCU.SchDoc with RMCF0805JT Series from APSS Prototype Parts.SchLib
+Replace Symbol from R2 RMCF0805JT Series in C:\Users\ecowa\Documents\UoA\Organisations-Extracurriculars\APSS\Psat\PCB\MCU\MCU.SchDoc with RMCF0805JT Series from APSS Prototype Parts.SchLib
+Replace Symbol from R3 RMCF0805JT Series in C:\Users\ecowa\Documents\UoA\Organisations-Extracurriculars\APSS\Psat\PCB\MCU\MCU.SchDoc with RMCF0805JT Series from APSS Prototype Parts.SchLib
+Replace Symbol from R4 RMCF0805JT Series in C:\Users\ecowa\Documents\UoA\Organisations-Extracurriculars\APSS\Psat\PCB\MCU\MCU.SchDoc with RMCF0805JT Series from APSS Prototype Parts.SchLib
+Replace Symbol from R5 RMCF0805JT Series in C:\Users\ecowa\Documents\UoA\Organisations-Extracurriculars\APSS\Psat\PCB\MCU\MCU.SchDoc with RMCF0805JT Series from APSS Prototype Parts.SchLib
+Replace Symbol from R6 RMCF0805JT Series in C:\Users\ecowa\Documents\UoA\Organisations-Extracurriculars\APSS\Psat\PCB\MCU\MCU.SchDoc with RMCF0805JT Series from APSS Prototype Parts.SchLib
+Replace Symbol from R9 RMCF0805JT Series in C:\Users\ecowa\Documents\UoA\Organisations-Extracurriculars\APSS\Psat\PCB\MCU\MCU.SchDoc with RMCF0805JT Series from APSS Prototype Parts.SchLib
+Replace Symbol from R10 RMCF0805JT Series in C:\Users\ecowa\Documents\UoA\Organisations-Extracurriculars\APSS\Psat\PCB\MCU\MCU.SchDoc with RMCF0805JT Series from APSS Prototype Parts.SchLib
+Replace Symbol from R? RMCF0805JT Series in C:\Users\ecowa\Documents\UoA\Organisations-Extracurriculars\APSS\Psat\PCB\MCU\MCU.SchDoc with RMCF0805JT Series from APSS Prototype Parts.SchLib
+Replace Symbol from R? RMCF0805JT Series in C:\Users\ecowa\Documents\UoA\Organisations-Extracurriculars\APSS\Psat\PCB\MCU\MCU.SchDoc with RMCF0805JT Series from APSS Prototype Parts.SchLib
+Replace Symbol from R? RMCF0805JT Series in C:\Users\ecowa\Documents\UoA\Organisations-Extracurriculars\APSS\Psat\PCB\MCU\MCU.SchDoc with RMCF0805JT Series from APSS Prototype Parts.SchLib
+Replace Symbol from R? RMCF0805JT Series in C:\Users\ecowa\Documents\UoA\Organisations-Extracurriculars\APSS\Psat\PCB\MCU\MCU.SchDoc with RMCF0805JT Series from APSS Prototype Parts.SchLib
+Replace Symbol from R? RMCF0805JT Series in C:\Users\ecowa\Documents\UoA\Organisations-Extracurriculars\APSS\Psat\PCB\MCU\MCU.SchDoc with RMCF0805JT Series from APSS Prototype Parts.SchLib
+Replace Symbol from U1 MSP430FR2355IPT in C:\Users\ecowa\Documents\UoA\Organisations-Extracurriculars\APSS\Psat\PCB\MCU\MCU.SchDoc with MSP430FR2355IPT from MSP430.SchLib
