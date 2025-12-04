@@ -1,0 +1,15 @@
+Change Component Footprint: Designator=J1 Old Footprint=MOLEX_0530480210 New Footprint=MOLEX_0533980271
+Change Component Comment : Designator=J1 Old Comment=0530480210 New Comment=0533980271
+Change component parameters: Designator = "J1" ("J1"); Footprint = "MOLEX_0530480210"; UniqueID = "\ZOGGQHHN" ("\ZOGGQHHN")
+Change component parameters (AddParameter): Name = "APSS Standard Part"; Value = "APSS Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF Part No."; Value = "0533980271"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "1.25mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1 Part No."; Value = "WM7606CT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J1-MP1
+Added Pin To Net: NetName=GND Pin=J1-MP2

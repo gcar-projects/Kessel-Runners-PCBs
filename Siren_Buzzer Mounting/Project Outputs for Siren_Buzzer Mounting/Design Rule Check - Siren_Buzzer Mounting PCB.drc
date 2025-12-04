@@ -1,0 +1,72 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\ecowa\Documents\UoA\Organisations-Extracurriculars\APSS\Psat\PCB\Siren_Buzzer Mounting\Siren_Buzzer Mounting PCB.PcbDoc
+Date     : 1/12/2025
+Time     : 10:47:47 pm
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=0.254mm) (Preferred=0.254mm) (All)
+   Violation between Width Constraint: Track (94.742mm,73.914mm)(94.742mm,73.941mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (94.742mm,73.914mm)(96.106mm,72.55mm) on Bottom Layer Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (94.742mm,73.941mm)(94.941mm,74.14mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (94.941mm,74.14mm)(94.941mm,75.271mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (94.941mm,75.271mm)(95.941mm,76.271mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (96.106mm,72.55mm)(96.999mm,72.55mm) on Bottom Layer Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (96.999mm,72.55mm)(97.149mm,72.4mm) on Bottom Layer Actual Width = 0.5mm, Target Width = 0.254mm
+Rule Violations :7
+
+Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+   Violation between Hole Size Constraint: (3.4mm > 2.54mm) Pad Free-2(107.061mm,65.532mm) on Multi-Layer Actual Hole Size = 3.4mm
+   Violation between Hole Size Constraint: (3.4mm > 2.54mm) Pad Free-2(107.061mm,80.391mm) on Multi-Layer Actual Hole Size = 3.4mm
+   Violation between Hole Size Constraint: (3.4mm > 2.54mm) Pad Free-2(92.075mm,65.532mm) on Multi-Layer Actual Hole Size = 3.4mm
+   Violation between Hole Size Constraint: (3.4mm > 2.54mm) Pad Free-2(92.075mm,80.391mm) on Multi-Layer Actual Hole Size = 3.4mm
+Rule Violations :4
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (0.169mm < 0.254mm) Between Pad Free-2(107.061mm,80.391mm) on Multi-Layer And Text "SIREN/BUZZER" (95.029mm,78.138mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.169mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Pad J1-1(97.149mm,73.65mm) on Bottom Layer And Text "5V" (95.664mm,74.516mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Pad J1-2(97.149mm,72.4mm) on Bottom Layer And Text "GND" (95.664mm,72.484mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Pad J1-MP1(99.899mm,76.2mm) on Bottom Layer And Text "KESSEL RUNNERS" (99.749mm,79.683mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.162mm < 0.254mm) Between Pad J1-MP1(99.899mm,76.2mm) on Bottom Layer And Track (97.299mm,75.15mm)(98.174mm,75.15mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0.162mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.162mm < 0.254mm) Between Pad J1-MP1(99.899mm,76.2mm) on Bottom Layer And Track (98.174mm,75.15mm)(98.174mm,76.575mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0.162mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Pad J1-MP2(99.899mm,69.87mm) on Bottom Layer And Text "KESSEL RUNNERS" (99.749mm,79.683mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.162mm < 0.254mm) Between Pad J1-MP2(99.899mm,69.87mm) on Bottom Layer And Track (97.299mm,70.92mm)(98.174mm,70.92mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0.162mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.162mm < 0.254mm) Between Pad J1-MP2(99.899mm,69.87mm) on Bottom Layer And Track (98.174mm,69.495mm)(98.174mm,70.92mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0.162mm]
+Rule Violations :9
+
+Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
+   Violation between Silk To Silk Clearance Constraint: (0.06mm < 0.254mm) Between Arc (96.799mm,74.575mm) on Bottom Overlay And Text "5V" (95.664mm,74.516mm) on Bottom Overlay Silk Text to Silk Clearance [0.06mm]
+Rule Violations :1
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 21
+Waived Violations : 0
+Time Elapsed        : 00:00:00

@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=NetH1_1 Pin=H2-1
+Removed Pin From Net: NetName=NetH1_2 Pin=H2-2
+Removed Pin From Net: NetName=NetH1_3 Pin=H2-3
+Removed Pin From Net: NetName=NetH1_4 Pin=H2-4
+Removed Pin From Net: NetName=NetH1_5 Pin=H2-5
+Removed Pin From Net: NetName=NetH1_6 Pin=H2-6
+Removed Pin From Net: NetName=GND Pin=H2-7
+Removed Pin From Net: NetName=5V Pin=H2-8
+Removed Pin From Net: NetName=3V3 Pin=H3-8
+Removed Pin From Net: NetName=NetH3_2 Pin=J1-2
+Removed Pin From Net: NetName=NetH3_3 Pin=J1-3
+Added Pin To Net: NetName=5V Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H2-2
+Added Pin To Net: NetName=NetH1_6 Pin=H2-3
+Added Pin To Net: NetName=NetH1_5 Pin=H2-4
+Added Pin To Net: NetName=NetH1_4 Pin=H2-5
+Added Pin To Net: NetName=NetH1_3 Pin=H2-6
+Added Pin To Net: NetName=NetH1_2 Pin=H2-7
+Added Pin To Net: NetName=NetH1_1 Pin=H2-8
+Added Pin To Net: NetName=3V3 Pin=H3-1
+Added Pin To Net: NetName=GND Pin=H3-8
+Added Pin To Net: NetName=NetH3_3 Pin=H4-1
+Added Pin To Net: NetName=NetH3_2 Pin=H4-2
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=GPIO 1 / TX Pin=H3-7
+Added Pin To Net: NetName=GPIO 1 / TX Pin=J1-2
+Added Net: Name=GPIO 1 / TX
+Added Pin To Net: NetName=GPIO 3 / RX Pin=H3-6
+Added Pin To Net: NetName=GPIO 3 / RX Pin=J1-3
+Added Net: Name=GPIO 3 / RX

@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\ecowa\Documents\UoA\Organisations-Extracurriculars\APSS\Psat\PCB\Beacon\Beacon.PcbDoc
 Date     : 30/11/2025
-Time     : 1:46:07 pm
+Time     : 2:02:21 pm
 
 WARNING: 1 Net Tie failed verification
    SMT Small Component SB7-Solder Jumper 3-pin Left connected 0201 (34.363mm,25.783mm) on Top Layer, SMT Small Component SB7-Solder Jumper 3-pin Left connected 0201 (34.363mm,25.783mm) on Top Layer, has isolated copper

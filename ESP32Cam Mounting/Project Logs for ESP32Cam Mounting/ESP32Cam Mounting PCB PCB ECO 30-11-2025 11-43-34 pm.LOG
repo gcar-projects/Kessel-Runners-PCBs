@@ -1,0 +1,64 @@
+Added Component: Designator=H1(8 Pin Header)
+Added Component: Designator=H2(8 Pin Header)
+Added Component: Designator=H3(8 Pin Header)
+Added Component: Designator=H4(2 Pin Header)
+Added Component: Designator=J1(MOLEX_0530480410)
+Add component (AddParameter): Name = "APSS Standard Part"; Value = "APSS Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF Part No."; Value = "0530480410"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Through-hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part No."; Value = "WM1744-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=H3-1
+Added Pin To Net: NetName=3V3 Pin=J1-1
+Added Net: Name=3V3
+Added Pin To Net: NetName=GND Pin=H3-8
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Net: Name=GND
+Added Pin To Net: NetName=NetH1_1 Pin=H1-1
+Added Pin To Net: NetName=NetH1_1 Pin=H2-1
+Added Net: Name=NetH1_1
+Added Pin To Net: NetName=NetH1_2 Pin=H1-2
+Added Pin To Net: NetName=NetH1_2 Pin=H2-2
+Added Net: Name=NetH1_2
+Added Pin To Net: NetName=NetH1_3 Pin=H1-3
+Added Pin To Net: NetName=NetH1_3 Pin=H2-3
+Added Net: Name=NetH1_3
+Added Pin To Net: NetName=NetH1_4 Pin=H1-4
+Added Pin To Net: NetName=NetH1_4 Pin=H2-4
+Added Net: Name=NetH1_4
+Added Pin To Net: NetName=NetH1_5 Pin=H1-5
+Added Pin To Net: NetName=NetH1_5 Pin=H2-5
+Added Net: Name=NetH1_5
+Added Pin To Net: NetName=NetH1_6 Pin=H1-6
+Added Pin To Net: NetName=NetH1_6 Pin=H2-6
+Added Net: Name=NetH1_6
+Added Pin To Net: NetName=NetH1_7 Pin=H1-7
+Added Pin To Net: NetName=NetH1_7 Pin=H2-7
+Added Net: Name=NetH1_7
+Added Pin To Net: NetName=NetH1_8 Pin=H1-8
+Added Pin To Net: NetName=NetH1_8 Pin=H2-8
+Added Net: Name=NetH1_8
+Added Pin To Net: NetName=NetH3_2 Pin=H3-2
+Added Pin To Net: NetName=NetH3_2 Pin=H4-1
+Added Net: Name=NetH3_2
+Added Pin To Net: NetName=NetH3_3 Pin=H3-3
+Added Pin To Net: NetName=NetH3_3 Pin=H4-2
+Added Net: Name=NetH3_3
+Added Pin To Net: NetName=NetH3_4 Pin=H3-4
+Added Net: Name=NetH3_4
+Added Pin To Net: NetName=NetH3_5 Pin=H3-5
+Added Net: Name=NetH3_5
+Added Pin To Net: NetName=NetH3_6 Pin=H3-6
+Added Pin To Net: NetName=NetH3_6 Pin=J1-2
+Added Net: Name=NetH3_6
+Added Pin To Net: NetName=NetH3_7 Pin=H3-7
+Added Pin To Net: NetName=NetH3_7 Pin=J1-3
+Added Net: Name=NetH3_7
+Added Class: Name=ESP32Cam Mounting Schematic
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1

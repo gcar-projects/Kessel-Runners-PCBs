@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=SD_MOSI Pin=B1-1
+Added Pin To Net: NetName=SD_MISO Pin=B2-1
+Added Pin To Net: NetName=SD_CLK Pin=B3-1
+Added Pin To Net: NetName=P4.0 / SD_CS Pin=B4-1
+Added Pin To Net: NetName=P4.0 / SD_CS Pin=UCA1-1
+Added Pin To Net: NetName=SD_CLK Pin=UCA1-2
+Added Pin To Net: NetName=SD_MISO Pin=UCA1-3
+Added Pin To Net: NetName=SD_MOSI Pin=UCA1-4

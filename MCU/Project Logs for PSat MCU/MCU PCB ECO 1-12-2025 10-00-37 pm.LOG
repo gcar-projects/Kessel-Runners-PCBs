@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=GPIO6.4 Pin=GPIO2-5
+Added Pin To Net: NetName=GPIO6.4 Pin=U1-18
+Added Net: Name=GPIO6.4
+Added Pin To Net: NetName=P2.6 / SD_CardDetect Pin=GPIO1-7
+Added Pin To Net: NetName=P2.6 / SD_CardDetect Pin=J2-CD
+Added Pin To Net: NetName=P2.6 / SD_CardDetect Pin=U1-9
+Added Net: Name=P2.6 / SD_CardDetect

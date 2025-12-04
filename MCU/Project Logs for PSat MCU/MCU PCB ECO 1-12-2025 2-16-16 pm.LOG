@@ -1,0 +1,23 @@
+Change component parameters: Designator = "U1" ("U1"); Footprint = "PT0048A_L"; UniqueID = "\KYSSKDOA" ("\KYSSKDOA")
+Change component parameters (AddParameter): Name = "APSS Standard Part"; Value = "APSS Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF Part No."; Value = "MSP430FR2355TPT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "LQFP-48"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "1.8V ~ 3.6V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1 Part No."; Value = "296-50260-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp Range"; Value = "-40°C ~ 105°C (TA)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component: Footprint Not Found HDR1X4
+Add Pin To Net: Unknown Pin: Pin UCB0-1
+Add Pin To Net: Unknown Pin: Pin UCB0-2
+Add Pin To Net: Unknown Pin: Pin UCB0-3
+Add Pin To Net: Unknown Pin: Pin UCB0-4
+Add Class Member: Failed to add class member : Component UCB0 Header 4
+Added Room: Name=MCU
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_4

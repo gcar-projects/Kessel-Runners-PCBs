@@ -1,0 +1,11 @@
+Added Component: Designator=UCB0(HEADER_2.54MM_1x4PIN)
+Added Pin To Net: NetName=UCB0_STE Pin=UCB0-1
+Added Pin To Net: NetName=UCB0_CLK Pin=UCB0-2
+Added Pin To Net: NetName=UCB0_SDA/MOSI Pin=UCB0-3
+Added Pin To Net: NetName=UCB0_SCL/MISO Pin=UCB0-4
+Added Pin To Net: NetName=P6.4 / SD_CardDetect Pin=GPIO2-5
+Added Pin To Net: NetName=P6.4 / SD_CardDetect Pin=J2-CD
+Added Pin To Net: NetName=P6.4 / SD_CardDetect Pin=U1-18
+Added Net: Name=P6.4 / SD_CardDetect
+Added Member To Class: ClassName=MCU Member=Component UCB0 HDR,2.54mm,1x4
+Added Room: Name=MCU

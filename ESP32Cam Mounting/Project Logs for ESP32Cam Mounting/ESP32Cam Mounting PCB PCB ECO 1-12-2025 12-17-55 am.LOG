@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=NetH3_6 Pin=J1-2
+Removed Pin From Net: NetName=NetH3_7 Pin=J1-3
+Removed Member From Class: ClassName=ESP32Cam Mounting Schematic Member=H4
+Added Component: Designator=H?(2 Pin Header)
+Added Pin To Net: NetName=NetH3_6 Pin=H?-1
+Added Pin To Net: NetName=NetH3_7 Pin=H?-2
+Change Net Name : Old Net Name=GND New Net Name=3V3
+Added Pin To Net: NetName=GND Pin=H1-7
+Added Pin To Net: NetName=GND Pin=H2-7
+Added Pin To Net: NetName=GND Pin=H3-1
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Net: Name=GND
+Added Pin To Net: NetName=GPIO 1 / TX Pin=H3-2
+Added Pin To Net: NetName=GPIO 1 / TX Pin=J1-2
+Added Net: Name=GPIO 1 / TX
+Added Pin To Net: NetName=GPIO 3 / RX Pin=H3-3
+Added Pin To Net: NetName=GPIO 3 / RX Pin=J1-3
+Added Net: Name=GPIO 3 / RX
+Added Member To Class: ClassName=ESP32Cam Mounting Schematic Member=Component H? 2 Pin Header
+Added Rule: Name=Schematic Supply Nets_2

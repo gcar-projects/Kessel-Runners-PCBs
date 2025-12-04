@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=P6.1 / BMP_INT Pin=GPIO2-2
+Added Pin To Net: NetName=P6.2 / BMP_ADR Pin=GPIO2-3
+Added Room: Name=MCU

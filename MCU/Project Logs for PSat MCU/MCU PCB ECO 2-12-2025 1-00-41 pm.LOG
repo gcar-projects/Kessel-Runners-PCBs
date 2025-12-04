@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GPIO2.7 Pin=GPIO1-6
+Removed Pin From Net: NetName=P2.6 / SD_CardDetect Pin=GPIO1-7
+Removed Pin From Net: NetName=GPIO6.5 Pin=GPIO2-6
+Removed Pin From Net: NetName=GPIO6.6 Pin=GPIO2-7
+Change Component Footprint: Designator=GPIO2 Old Footprint=HEADER_2.54MM_1x7PIN New Footprint=HEADER_2.54MM_1x5PIN
+Change Component Comment : Designator=GPIO2 Old Comment=HDR,2.54mm,1x7 New Comment=HDR,2.54mm,1x5
+Added Component: Designator=UCB0(HEADER_2.54MM_1x4PIN)
+Added Pin To Net: NetName=GPIO2.7 Pin=GPIO1-4
+Added Pin To Net: NetName=P2.6 / SD_CardDetect Pin=GPIO1-5
+Added Pin To Net: NetName=GPIO6.5 Pin=GPIO1-6
+Added Pin To Net: NetName=GPIO6.6 Pin=GPIO1-7
+Added Pin To Net: NetName=UCB0_STE Pin=UCB0-1
+Added Pin To Net: NetName=UCB0_CLK Pin=UCB0-2
+Added Pin To Net: NetName=UCB0_SDA/MOSI Pin=UCB0-3
+Added Pin To Net: NetName=UCB0_SCL/MISO Pin=UCB0-4
+Added Member To Class: ClassName=MCU Member=Component COMP HDR,2.54mm,1x2
+Added Member To Class: ClassName=MCU Member=Component UCB0 HDR,2.54mm,1x4
+Added Member To Class: ClassName=MCU Member=Component UCB1 HDR,2.54mm,1x4
+Added Room: Name=MCU

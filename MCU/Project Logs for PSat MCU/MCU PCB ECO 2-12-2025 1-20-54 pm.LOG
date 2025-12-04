@@ -1,0 +1,29 @@
+Change component parameters: Designator = "J3" ("J3"); Footprint = "MOLEX_0530480310"; UniqueID = "\HKANLZVK" ("\HKANLZVK")
+Change component parameters (AddParameter): Name = "APSS Standard Part"; Value = "APSS Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF Part No."; Value = "0530480310"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Through-hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "1.25mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1 Part No."; Value = "WM1743-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J4" ("J4"); Footprint = "MOLEX_0530480310"; UniqueID = "\ZDCSDIAD" ("\ZDCSDIAD")
+Change component parameters (AddParameter): Name = "APSS Standard Part"; Value = "APSS Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF Part No."; Value = "0530480310"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Through-hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "1.25mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1 Part No."; Value = "WM1743-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=UCB0(HEADER_2.54MM_1x4PIN)
+Added Pin To Net: NetName=UCB0_STE Pin=UCB0-1
+Added Pin To Net: NetName=UCB0_CLK Pin=UCB0-2
+Added Pin To Net: NetName=UCB0_SDA/MOSI Pin=UCB0-3
+Added Pin To Net: NetName=UCB0_SCL/MISO Pin=UCB0-4
+Added Member To Class: ClassName=MCU Member=Component UCB0 HDR,2.54mm,1x4
+Added Room: Name=MCU

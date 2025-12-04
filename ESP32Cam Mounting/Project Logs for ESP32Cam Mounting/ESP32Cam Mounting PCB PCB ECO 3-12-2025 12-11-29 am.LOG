@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=GPIO 3 / RX Pin=J1-2
+Removed Pin From Net: NetName=GPIO 1 / TX Pin=J1-3
+Removed Pin From Net: NetName=GND Pin=J1-4
+Change Component Footprint: Designator=J1 Old Footprint=MOLEX_0533980471 New Footprint=MOLEX_0532610471
+Change Component Comment : Designator=J1 Old Comment=0533980471 New Comment=0532610471
+Change component parameters: Designator = "J1" ("J1"); Footprint = "MOLEX_0533980471"; UniqueID = "\QLAWLZMH" ("\QLAWLZMH")
+Change component parameters (AddParameter): Name = "APSS Standard Part"; Value = "APSS Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF Part No."; Value = "0532610471"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "1.25mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1 Part No."; Value = "WM7622CT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=H4(2 Pin Header)
+Added Pin To Net: NetName=NetH3_3 Pin=H4-1
+Added Pin To Net: NetName=NetH3_2 Pin=H4-2
+Added Pin To Net: NetName=3V3 Pin=J1-2
+Added Pin To Net: NetName=GPIO 3 / RX Pin=J1-3
+Added Pin To Net: NetName=GPIO 1 / TX Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J1-MP2
+Added Member To Class: ClassName=ESP32Cam Mounting Schematic Member=Component H4 2 Pin Header
