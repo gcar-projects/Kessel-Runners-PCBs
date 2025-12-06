@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=P2.6 / SD_CardDetect Pin=GPIO1-5
+Removed Member From Class: ClassName=MCU Member=GPIO1

@@ -1,0 +1,14 @@
+Add component: Footprint Not Found 2 Pin Header
+Add Pin To Net: Unknown Pin: Pin H4-1
+Add Pin To Net: Unknown Pin: Pin H4-2
+Added Pin To Net: NetName=GND Pin=J1-MP1
+Change Net Name : Old Net Name=NetH1_1 New Net Name=GPIO 4
+Change Net Name : Old Net Name=NetH1_2 New Net Name=GPIO 2
+Change Net Name : Old Net Name=NetH1_3 New Net Name=GPIO 14
+Change Net Name : Old Net Name=NetH1_4 New Net Name=GPIO 15
+Change Net Name : Old Net Name=NetH1_5 New Net Name=GPIO 13
+Change Net Name : Old Net Name=NetH1_6 New Net Name=GPIO 12
+Add Class Member: Failed to add class member : Component H4 2 Pin Header
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2

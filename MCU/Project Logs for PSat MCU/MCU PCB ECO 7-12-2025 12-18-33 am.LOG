@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=P4.0 / SD_CS Pin=UCA1-1
+Removed Pin From Net: NetName=SD_CLK Pin=UCA1-2
+Removed Pin From Net: NetName=SD_MISO Pin=UCA1-3
+Removed Pin From Net: NetName=SD_MOSI Pin=UCA1-4
+Removed Member From Class: ClassName=MCU Member=UCA1
+Added Room: Name=MCU

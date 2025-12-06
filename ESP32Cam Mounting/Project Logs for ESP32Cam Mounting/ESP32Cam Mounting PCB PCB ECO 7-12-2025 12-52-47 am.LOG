@@ -1,0 +1,11 @@
+Added Component: Designator=H4(2 Pin Header)
+Added Pin To Net: NetName=NetH3_3 Pin=H4-1
+Added Pin To Net: NetName=NetH3_2 Pin=H4-2
+Added Pin To Net: NetName=GND Pin=J1-MP1
+Change Net Name : Old Net Name=NetH1_1 New Net Name=GPIO 4
+Change Net Name : Old Net Name=NetH1_2 New Net Name=GPIO 2
+Change Net Name : Old Net Name=NetH1_3 New Net Name=GPIO 14
+Change Net Name : Old Net Name=NetH1_4 New Net Name=GPIO 15
+Change Net Name : Old Net Name=NetH1_5 New Net Name=GPIO 13
+Change Net Name : Old Net Name=NetH1_6 New Net Name=GPIO 12
+Added Member To Class: ClassName=ESP32Cam Mounting Schematic Member=Component H4 2 Pin Header
