@@ -1,0 +1,107 @@
+Added Component: Designator=GPIO1(HEADER_2.54MM_1x7PIN)
+Added Component: Designator=H7(3 Pin Header)
+Added Component: Designator=H8(HEADER_2.54MM_1x4PIN)
+Added Component: Designator=H9(3 Pin Header)
+Added Component: Designator=H10(2 Pin Header)
+Added Component: Designator=H11(2 Pin Header)
+Added Component: Designator=H12(2 Pin Header)
+Added Component: Designator=H13(2 Pin Header)
+Added Component: Designator=Q1(SOT23-3N-1.15mm)
+Add component (AddParameter): Name = "APSS Standard Part"; Value = "APSS Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF Part No."; Value = "AS2312"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1.2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "20 Vds"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part No."; Value = "4530-AS2312CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Range"; Value = "0°C ~ 150°C (TJ)"; VariantName = "[No Variations]"
+Added Component: Designator=R1(CAPC1608X90)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/F0603G0R20FNTR/AVX+%252F+Kyocera/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "F0603G0R20FNTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603-2 AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/F0603G0R20FNTR/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/F0603G0R20FNTR/AVX+%252F+Kyocera/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R2(CAPC1608X90)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/F0603G0R20FNTR/AVX+%252F+Kyocera/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "F0603G0R20FNTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603-2 AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/F0603G0R20FNTR/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/F0603G0R20FNTR/AVX+%252F+Kyocera/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R3(CAPC1608X90)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/F0603G0R20FNTR/AVX+%252F+Kyocera/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "F0603G0R20FNTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603-2 AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/F0603G0R20FNTR/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/F0603G0R20FNTR/AVX+%252F+Kyocera/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=H7-1
+Added Pin To Net: NetName=GND Pin=H7-2
+Added Pin To Net: NetName=3V3 Pin=H8-1
+Added Pin To Net: NetName=GND Pin=H8-4
+Added Pin To Net: NetName=5V Pin=H9-1
+Added Pin To Net: NetName=GND Pin=H9-2
+Added Pin To Net: NetName=5V Pin=H10-1
+Added Pin To Net: NetName=5V Pin=H11-1
+Added Pin To Net: NetName=5V Pin=H12-1
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=GPIO2.3 Pin=GPIO1-1
+Added Net: Name=GPIO2.3
+Added Pin To Net: NetName=GPIO2.6 Pin=GPIO1-7
+Added Net: Name=GPIO2.6
+Added Pin To Net: NetName=GPIO2.7 Pin=GPIO1-6
+Added Net: Name=GPIO2.7
+Added Pin To Net: NetName=GPIO3.6 Pin=GPIO1-2
+Added Pin To Net: NetName=GPIO3.6 Pin=H8-2
+Added Net: Name=GPIO3.6
+Added Pin To Net: NetName=GPIO3.7 Pin=GPIO1-3
+Added Pin To Net: NetName=GPIO3.7 Pin=H8-3
+Added Net: Name=GPIO3.7
+Added Pin To Net: NetName=GPIO6.0 Pin=GPIO1-4
+Added Pin To Net: NetName=GPIO6.0 Pin=H7-3
+Added Pin To Net: NetName=GPIO6.0 Pin=H9-3
+Added Net: Name=GPIO6.0
+Added Pin To Net: NetName=GPIO6.1 Pin=GPIO1-5
+Added Pin To Net: NetName=GPIO6.1 Pin=Q1-1
+Added Net: Name=GPIO6.1
+Added Pin To Net: NetName=NetH10_2 Pin=H10-2
+Added Pin To Net: NetName=NetH10_2 Pin=R1-2
+Added Net: Name=NetH10_2
+Added Pin To Net: NetName=NetH11_2 Pin=H11-2
+Added Pin To Net: NetName=NetH11_2 Pin=R2-2
+Added Net: Name=NetH11_2
+Added Pin To Net: NetName=NetH12_2 Pin=H12-2
+Added Pin To Net: NetName=NetH12_2 Pin=R3-2
+Added Net: Name=NetH12_2
+Added Pin To Net: NetName=NetH13_1 Pin=H13-1
+Added Pin To Net: NetName=NetH13_1 Pin=R1-1
+Added Pin To Net: NetName=NetH13_1 Pin=R2-1
+Added Pin To Net: NetName=NetH13_1 Pin=R3-1
+Added Net: Name=NetH13_1
+Added Pin To Net: NetName=NetH13_2 Pin=H13-2
+Added Pin To Net: NetName=NetH13_2 Pin=Q1-3
+Added Net: Name=NetH13_2
+Added Member To Class: ClassName=Payload Member=Component GPIO1 HDR,2.54mm,1x7
+Added Member To Class: ClassName=Payload Member=Component H7 3 Pin Header
+Added Member To Class: ClassName=Payload Member=Component H8 Header - 2.54mm,1x4-pin
+Added Member To Class: ClassName=Payload Member=Component H9 3 Pin Header
+Added Member To Class: ClassName=Payload Member=Component H10 2 Pin Header
+Added Member To Class: ClassName=Payload Member=Component H11 2 Pin Header
+Added Member To Class: ClassName=Payload Member=Component H12 2 Pin Header
+Added Member To Class: ClassName=Payload Member=Component H13 2 Pin Header
+Added Member To Class: ClassName=Payload Member=Component Q1 AS2312
+Added Member To Class: ClassName=Payload Member=Component R1 F0603G0R20FNTR
+Added Member To Class: ClassName=Payload Member=Component R2 F0603G0R20FNTR
+Added Member To Class: ClassName=Payload Member=Component R3 F0603G0R20FNTR
