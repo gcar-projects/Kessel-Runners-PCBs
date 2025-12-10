@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=3V3 Pin=J1-1
+Removed Pin From Net: NetName=3V3 Pin=J1-2
+Removed Pin From Net: NetName=GPIO 3 / RX Pin=J1-3
+Removed Pin From Net: NetName=GPIO 1 / TX Pin=J1-4
+Removed Pin From Net: NetName=GND Pin=J1-MP1
+Removed Pin From Net: NetName=GND Pin=J1-MP2
+Removed Member From Class: ClassName=ESP32Cam Mounting Schematic Member=J1
+Added Component: Designator=H4(HEADER_2.54MM_1x4PIN)
+Added Pin To Net: NetName=GND Pin=H4-1
+Added Pin To Net: NetName=GPIO 1 / TX Pin=H4-2
+Added Pin To Net: NetName=GPIO 3 / RX Pin=H4-3
+Added Pin To Net: NetName=3V3 Pin=H4-4
+Added Member To Class: ClassName=ESP32Cam Mounting Schematic Member=Component H4 Header - 2.54mm,1x4-pin
