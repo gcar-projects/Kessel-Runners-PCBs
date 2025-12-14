@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\ecowa\Documents\UoA\Organisations-Extracurriculars\APSS\Psat\PCB\Beacon\Beacon.PcbDoc
-Date     : 30/11/2025
-Time     : 2:02:21 pm
+PCB File : C:\Users\ecowa\Documents\Git Repos\Kessel-Runners-PCBs\Beacon\Beacon.PcbDoc
+Date     : 14/12/2025
+Time     : 1:16:23 pm
 
 WARNING: 1 Net Tie failed verification
    SMT Small Component SB7-Solder Jumper 3-pin Left connected 0201 (34.363mm,25.783mm) on Top Layer, SMT Small Component SB7-Solder Jumper 3-pin Left connected 0201 (34.363mm,25.783mm) on Top Layer, has isolated copper
@@ -40,7 +40,11 @@ Processing Rule : Silk To Solder Mask (Clearance=0.1mm) (IsPad),(All)
 Rule Violations :0
 
 Processing Rule : Silk to Silk (Clearance=0.1mm) (All),(All)
-Rule Violations :0
+   Violation between Silk To Silk Clearance Constraint: (0.016mm < 0.1mm) Between Text "SIREN" (1.164mm,21.939mm) on Top Overlay And Track (1.068mm,21.733mm)(6.237mm,23.615mm) on Top Overlay Silk Text to Silk Clearance [0.016mm]
+   Violation between Silk To Silk Clearance Constraint: (0.016mm < 0.1mm) Between Text "SIREN" (2.622mm,37.911mm) on Top Overlay And Track (2.426mm,37.798mm)(7.738mm,36.374mm) on Top Overlay Silk Text to Silk Clearance [0.016mm]
+   Violation between Silk To Silk Clearance Constraint: (0.065mm < 0.1mm) Between Text "SIREN" (3.289mm,16.294mm) on Top Overlay And Track (2.522mm,17.74mm)(7.69mm,19.621mm) on Top Overlay Silk Text to Silk Clearance [0.065mm]
+   Violation between Silk To Silk Clearance Constraint: (0.016mm < 0.1mm) Between Text "SIREN" (3.289mm,16.294mm) on Top Overlay And Track (3.23mm,16.076mm)(7.993mm,18.826mm) on Top Overlay Silk Text to Silk Clearance [0.016mm]
+Rule Violations :4
 
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
 Rule Violations :0
@@ -49,6 +53,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 0
+Violations Detected : 4
 Waived Violations : 0
 Time Elapsed        : 00:00:00
